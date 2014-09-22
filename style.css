@@ -1,0 +1,86 @@
+.mainContiner{
+	position: relative;
+	top: 20%;
+	border-style: solid;
+	border-color: blue;
+	padding: 10px;
+	width: 456px;
+	left: 33%;
+}
+.alarm{
+	background-color: red;
+}
+#clock{
+	text-align: center;
+}
+
+#timer{
+	text-align: center;
+}
+#stopper{
+	text-align: center;
+}
+#clockButton{
+	margin-left: 30px;
+}
+#stopperButton{
+	margin-left: 10px;
+}
+#timerButton{
+	margin-left: 10px;
+	float:right;
+}
+#clockContiner{
+	left: 318px;
+	border-style: solid;
+	width: 135px;
+	padding-left: 5px;
+	float: left;
+	height: 147px;
+	padding-right: 5px;
+}
+#currentTimeButton{
+	margin-left: 25px;;
+}
+#timerContiner{
+	left: 318px;
+	border-style: solid;
+	width: 135px;
+	padding-left: 5px;
+	float: right;
+	height: 147px;
+	padding-right: 5px;
+}
+#lapStopperButton{
+	margin-left: 10px;
+}
+#stopperContiner{
+	left: 318px;
+	border-style: solid;
+	width: 135px;
+	float: right;
+	height: 147px;
+	margin-right: 8px;
+}
+.clearBoth{
+	clear: both;
+}
+.clockTitle{
+	text-align: center;
+	font-weight: 700;
+	font-style: italic;
+	color: chocolate;
+	padding-top: 6px;;
+}
+#setTimerButton{
+	margin-left: 10px;
+
+}
+#stopAlarmButton{
+	margin-left: 44px;
+
+}
+/*test*/
+
+/*test*/
+
