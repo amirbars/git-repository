@@ -36,7 +36,7 @@
 				}
 			});
 		
-			self.intervalId = setInterval(function() {
+			self.intervalId = setInterval(function(){
 				self.milliSecCounter++;
 				if(self.milliSecCounter > 99){
 					self.secCounter++;
